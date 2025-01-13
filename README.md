@@ -9,8 +9,6 @@ This project aims to predict whether a golfer will **make the cut** in a golf to
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Usage](#usage)
-- [Visualization](#visualization)
-- [License](#license)
 
 ## Project Description
 
